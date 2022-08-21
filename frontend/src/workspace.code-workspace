@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../exercises/js-browser-building-art"
+		},
+		{
+			"path": "../../../exercises/js-browser-screen-state"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../exercises/js-browser-build-dom-completely-loop"
+		}
+	],
+	"settings": {}
+}
